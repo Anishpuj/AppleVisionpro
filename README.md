@@ -29,7 +29,7 @@ To deploy this project
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+Lessons learned while building this website was how to use locomotive scrolling and how to use series of images and to make the webapp scrollign much smoother 
 
 
 ## License
