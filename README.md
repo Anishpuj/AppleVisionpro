@@ -2,6 +2,8 @@
 # Apple Vision Pro CLONE 
 
 This is a Basic clone of Apple's Vision pro created using HTML , CSS,Canvas,Javascript 
+![App Screenshot](https://github.com/Anishpuj/AppleVisionproClone/assets/98417394/4d531829-a814-43fb-9b69-aa1bea4cda38)
+
 
 
 ## Demo
@@ -35,12 +37,6 @@ Lessons learned while building this website was how to use locomotive scrolling 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Screenshots
-
-![App Screenshot](https://github.com/Anishpuj/AppleVisionproClone/assets/98417394/4d531829-a814-43fb-9b69-aa1bea4cda38)
-
 
 ## Support
 
